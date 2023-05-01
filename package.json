@@ -10,7 +10,10 @@
         "lines": 80,
         "statements": 80
       }
-    }
+    },
+    "moduleNameMapper": {
+        "^@/(.*)$": "<rootDir>/$1"
+      }
   },
   "private": true,
   "scripts": {
@@ -26,6 +29,7 @@
     "@chakra-ui/react": "^2.6.0",
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
+    "axios": "^1.4.0",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.2",
     "framer-motion": "^10.12.4",
