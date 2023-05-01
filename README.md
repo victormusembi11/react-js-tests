@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/victormusembi11/testing-react-next-js/branch/main/graph/badge.svg?token=DB44TPY1PX)](https://codecov.io/gh/victormusembi11/testing-react-next-js)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
